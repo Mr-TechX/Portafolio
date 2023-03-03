@@ -1,6 +1,3 @@
-/* Modernizr 2.8.3 (Custom Build) | MIT & BSD
- * Build: http://modernizr.com/download/#-shiv-cssclasses-load
- */
 (window.Modernizr = (function (a, b, c) {
   function u(a) {
     j.cssText = a;
